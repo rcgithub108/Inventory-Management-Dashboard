@@ -33,12 +33,6 @@ This dashboard helps businesses monitor inventory performance using interactive 
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](Images/Dashboard.png)
-
----
-
 ## Project Structure
 
 ```
